@@ -1,6 +1,6 @@
 {
   "name": "@doeanderson/tailwindcss-color-vars",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tailwind CSS plugin to easily manage colors via CSS variables",
   "main": "index.js",
   "scripts": {

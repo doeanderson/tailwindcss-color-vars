@@ -85,6 +85,9 @@ module.exports = plugin.withOptions(function (colors) {
       ':root': {
         ...getColorVars(colors),
       },
+      '::backdrop': {
+        ...getColorVars(colors),
+      },
     });
   }
 }, function (colors) {

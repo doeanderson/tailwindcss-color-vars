@@ -11,7 +11,7 @@ yarn add --dev @doeanderson/tailwindcss-color-vars
 Add the following plugin to your `tailwind.config.js` file:
 
 ```js
-require('./tailwind-colors-plugin')({
+require('@doeanderson/tailwindcss-color-vars')({
   colorName: 'R G B',
 })
 ```
